@@ -566,7 +566,8 @@ section,
   display: block;
   width: 100%;
   height: 100%;
-  object-fit: scale-down;
+  object-fit: contain;
+  margin-left: 220px;
   z-index: 1;
 }
 
