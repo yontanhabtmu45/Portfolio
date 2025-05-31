@@ -1,6 +1,5 @@
 .icons {
-    position: absolute;
-    right: 50%;
-    bottom: 0;
-    transform: translateX(-50%);
+    top: 4rem;
+    /* margin-top: 10rem;  */
+    margin-right: 4rem
 }
