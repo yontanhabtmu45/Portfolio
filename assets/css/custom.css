@@ -1,0 +1,7 @@
+.icons {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    /* Optional: add width or padding as needed */
+}
